@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/large/
+*.npy
+*.npz
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+
+# Editors
+.vscode/
+.idea/
