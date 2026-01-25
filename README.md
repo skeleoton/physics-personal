@@ -7,4 +7,5 @@ Template:
 - **data/ :** Place where I keep datasets for personal projects indicated by name
 - **figures/ :** Place where I keep figures for personal projects indicated by name 
 
+
 That's it. Just a place where I can organize my work & pull from easily.
