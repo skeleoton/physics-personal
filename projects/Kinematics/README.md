@@ -1,4 +1,4 @@
-This project outputs graphs based on the inputted values, it uses common undergrad kinematic equations that can be found in the eq.py file :)
+This project outputs graphs based on inputted slider values, it uses common undergrad kinematic equations that can be found in the eq.py file :)
 
 - This model assumes constant acceleration & does not include jerk, pop, etc.
 - The aux & eq python files are helper modules for better readability in the sandbox
